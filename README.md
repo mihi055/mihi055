@@ -1,4 +1,4 @@
 - 👋 Hi, I’m mihi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning front-end developement
-- 😄 Pronouns: mbti:ENTJ 
+- 😄 Pronouns: mbti:ENTP
